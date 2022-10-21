@@ -1,0 +1,28 @@
+body
+{
+    background-color: darkgoldenrod;
+}
+
+button
+{
+    background-color: crimson;
+    height: 30px;
+    width: 60px;
+    color: black;
+}
+h1
+{
+    color: magenta;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgba(0, 0, 0, 0.822);
+}
+
+img{
+    width: 200px;
+    height: 250px;
+}
